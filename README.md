@@ -2,9 +2,9 @@
 ## Numpy_Tutorial
 
 The `NumPy` library is a popular open source Python library used for scientific computing applications, and is an acronym for `"Numerical Python"`. NumPy's operations are divided into three main categories: 
-    1. Fourier Transform and Shape Manipulation
-    2. Mathematical and Logical Operations, and 
-    3. Linear Algebra and Random Number Generation.
+1. Fourier Transform and Shape Manipulation
+2. Mathematical and Logical Operations, and 
+3. Linear Algebra and Random Number Generation.
 
 NumPy is an incredible library which works perfectly well for `multi-dimensional arrays` and `matrices multiplication`.
 
