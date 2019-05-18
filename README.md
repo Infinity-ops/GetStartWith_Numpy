@@ -1,6 +1,15 @@
 # GetStartWith_Numpy
 ## Numpy_Tutorial
 
+### Install and import
+Numpy is an easy package to install. Open up your terminal program (for Mac users) or command line (for PC users) and install it using either of the following commands:
+
+    conda install numpy
+
+OR
+
+    pip install numpy
+
 The `NumPy` library is a popular open source Python library used for scientific computing applications, and is an acronym for `"Numerical Python"`. NumPy's operations are divided into three main categories: 
 1. Fourier Transform and Shape Manipulation
 2. Mathematical and Logical Operations, and 
