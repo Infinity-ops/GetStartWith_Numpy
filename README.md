@@ -2,7 +2,7 @@
 ## Numpy_Tutorial
 
 ### Install and import
-Numpy is an easy package to install. Open up your terminal program (for Mac users) or command line (for PC users) and install it using either of the following commands:
+Numpy is an easy package to install. Open up your terminal program or command line and install it using either of the following commands:
 
     conda install numpy
 
