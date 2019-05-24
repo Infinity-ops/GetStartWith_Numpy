@@ -20,6 +20,9 @@ NumPy is an incredible library which works perfectly well for `multi-dimensional
 NumPy is often used along with packages like `SciPy` (Scientific Python) and `Mat−plotlib` (plotting library).
 
 This repository Covered following Numpy Operations..
+
+Have a look on Things_to_Know(Mastering_Numpy).md before diving into the code... 
+    
 ### Creating a NumPy Array
     1. The array Method
     2. The arange Method
@@ -28,6 +31,8 @@ This repository Covered following Numpy Operations..
     5. The linspace Method
     6. The eye Method
     7. The random Method
+    8. The empty Method
+    9. The logspace method
 ### Reshaping NumPy Array 
 ### Array Indexing in NumPy
     1. Indexing with 1-D Arrays
@@ -44,5 +49,6 @@ This repository Covered following Numpy Operations..
     3. Finding the Inverse of a Matrix
     4. Finding the Determinant of a Matrix
     5. Finding the Trace of a Matrix
-### Plots Using MatPlotLib          
-    
+### Plots Using MatPlotLib      
+
+
